@@ -17,10 +17,18 @@ main {
   height: 100%;
 }
 .button {
-  background-color: rgb(208, 149, 0);
-  padding: 0%;
-  margin: 0%;
+  width: 9em;
+  border-radius: 0 25px 25px 25px;
+  padding: 22px 25px;
+  color: #f8f6f6;
+  background-color: #ed6436;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-right: 80px;
 }
+
 .buttonprincipal {
   align-items: end;
 }
